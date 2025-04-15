@@ -30,6 +30,9 @@ A flexible and reusable **Autocomplete** component built with React. It supports
 - 🛠 **Utility Functions**  
   Includes utilities for fetching API/static data, filtering results, and formatting inputs.
 
+- 🧭 **Alias Support for Imports**
+  Simplifies project structure and cleaner imports with path aliases (e.g., `@components`).
+
 ---
 
 ## 🚀 Getting Started
